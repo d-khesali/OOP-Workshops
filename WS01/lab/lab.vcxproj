@@ -25,7 +25,14 @@
     <Text Include="correct_output.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="io.cpp" />
+    <ClCompile Include="graph.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="w1p1.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="graph.h" />
+    <ClInclude Include="io.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
