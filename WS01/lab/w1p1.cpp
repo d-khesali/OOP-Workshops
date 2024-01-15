@@ -1,15 +1,9 @@
 /***********************************************************************
-Workshop 1: Compiling modular source code
-File	w1p2.cpp
-Version 1.0
-Author	Fardad Soleimanloo  2241
-Description:
-   This provides some source code in a single file to break 
-   into modules and compile together
-
-Revision History
------------------------------------------------------------
-Name            Date            Reason       
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+Name: Daniel Khesali
+Email: dkhesali@myseneca.ca
+St No:146228200
+Section:NRB
 
 ***********************************************************************/
 
